@@ -8,13 +8,14 @@ Made with :heart::orange_heart::yellow_heart::green_heart::blue_heart::purple_he
 
 ## <a name="goals">Outline</a>
 
-:wave: Welcome! In this series we will be learning to use Kubernetes to build a simple social media site using a microservice based approach.
+:wave: Welcome! In this series we will be learning to use Kubernetes to build a simple social media site called 'Chirper', using a microservice based approach.
 
 This tutorial is intended for any developer interested in getting started with microservice architecture. Familiarity with Docker and Kubernetes is helpful but certainly not required, anyone should be able to follow along. We will also be using a combination of NextJS / Typescript and Ruby on Rails for our example services, though, the core configurations are all presented in YAML format, so the series should be relatively agnostic if you choose to use other languages or frameworks.
 
 ## <a name="contents">Contents</a>
 
-[:wrench: Environment Setup](readme/01-environment-setup.md)
+1. [:camping: Environment Setup](readme/01-environment-setup.md)
+2. [:wood: Project Setup](readme/02-project-setup.md)
 
 ## <a name="references">References</a>
 

@@ -1,6 +1,6 @@
 [< Contents](../README.md#contents)
 
-# :wrench: Environment Setup
+# :camping: Environment Setup
 
 ## Platform
 
